@@ -16,7 +16,7 @@ public class View extends Application {
     /**
      * Startet JavaFX-Anwendung und initialisiert "Stage".
      *
-     * @param stage "Hauptbühne" der Anwendung
+     * @param stage Hauptbühne der Anwendung
      * @throws Exception bei Problemen beim Laden der FXML-Datei
      */
     @Override
